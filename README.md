@@ -1,6 +1,6 @@
 # Rapidly Exploring Random Tree Robot Planning
 Using Python TK to visualize, point/line robots generate planning trees in their
-configuration space to maneuvre to the goal point. 
+configuration space to maneuvre to the goal point. Uses Python 2.7
 
 ![uni](https://i.imgur.com/3UX3cUw.png "Using a uniform distribution to sample points")
 *Using a uniform distribution to sample points*
